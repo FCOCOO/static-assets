@@ -1,0 +1,27 @@
+/* 本地化 Google Fonts - Ubuntu & Source Code Pro */
+
+/* Ubuntu 字体 */
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../../fonts/google-fonts/Ubuntu-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(../../fonts/google-fonts/Ubuntu-600.woff2) format('woff2');
+}
+
+/* Source Code Pro 字体 */
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../../fonts/google-fonts/SourceCodePro-Regular.ttf) format('truetype');
+}
